@@ -1,7 +1,6 @@
 [![MasterHead](https://i.imgur.com/uOGWtlY.gif)](https://hugosevero.com)
 <h1 align="center">Hi 👋, I'm Hugo Severo</h1>
 <h3 align="center">"Don't hate the player, let's change the game!"</h3>
-<p align="right"> <img src="[file%20views&color=0e75b6&style=flat](https://i.imgur.com/TgSM5KJ.png)" alt="hugosevero" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hugosevero&label=Profile%20views&color=0e75b6&style=flat" alt="hugosevero" /> </p>
 
