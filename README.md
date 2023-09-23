@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [hugosevero.com](hugosevero.com)
 
-- 📝 I regularly play [League of Legends](League of Legends)
+- 📝 I regularly play **League of Legends**
 
 - 💬 Ask me about **chess**
 
