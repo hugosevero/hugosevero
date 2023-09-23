@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **contato@hugosevero.com**
 
-- 📄 and my favorite role is [support](support)
+- 📄 and my favorite role is **support**
 
 - ⚡ Fun fact **i'm left-handed**
 
