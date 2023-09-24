@@ -14,11 +14,11 @@
 
 - 👨‍💻 All of my projects are available at [hugosevero.com](hugosevero.com)
 
-- 📝 I regularly play **League of Legends**
+- 📫 How to reach me **contato@hugosevero.com**
 
 - 💬 Ask me about **chess**
 
-- 📫 How to reach me **contato@hugosevero.com**
+- 📝 I regularly play **League of Legends**
 
 - 📄 and my favorite role is **support**
 
